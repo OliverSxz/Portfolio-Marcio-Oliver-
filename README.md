@@ -31,6 +31,8 @@ Tenho 19 anos e busco minha primeira oportunidade como desenvolvedor júnior, fo
 
 - 🔐 Sistema de login com SQLite (Python)
 - 📁 Gerenciador de arquivos (Java)
+- 🏦 Sistema Bancário (Java)
+- 📋 Divisor de Tarefas (Python)
 - 🧪 Projetos de lógica e estudos pessoais
 
 ---
@@ -43,11 +45,11 @@ Atuar como desenvolvedor backend júnior, construindo sistemas, APIs e aplicaç�
 
 ## 📫 Contato
 
-- GitHub: (seu link aqui)
+- GitHub: (https://github.com/OliverSxz)
 
 - LinkedIn: (https://www.linkedin.com/in/marcio-oliver-santos-de-paula-8486bb412?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-- Email: (opcional)
+- Email: (comercial.oliver100@gmail.com)
 
 ---
 
